@@ -19,21 +19,10 @@ A powerful editor tool for quick scene switching in Unity. Stop digging through 
 
 ## Installation
 
-### Option 1: Unity Package Manager (Recommended)
-
-1. Open Unity Package Manager (`Window > Package Manager`)
-2. Click the `+` button and select "Add package from disk..."
-3. Navigate to the `UnitySceneSwitcher` folder and select `package.json`
-
-### Option 2: Manual Installation
-
-1. Copy the `UnitySceneSwitcher` folder into your Unity project's `Packages` folder
-   - Your path should be: `YourProject/Packages/UnitySceneSwitcher/`
-
-### Option 3: Copy to Assets
-
-1. Copy the `Editor` folder from `UnitySceneSwitcher` into your project's `Assets` folder
-   - Your path should be: `YourProject/Assets/SceneSwitcher/Editor/`
+Via Unity Package Manager:
+1. Open Package Manager (Window > Package Manager)
+2. Click + → Add package from git URL...
+3. Enter: https://github.com/ddky16/UnityPackage-Scene-Switcher.git
 
 ## Usage
 
