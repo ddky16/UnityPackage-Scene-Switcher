@@ -5,9 +5,9 @@
   "description": "A powerful editor tool for quick scene switching in Unity. Features include dropdown selection, favorites, recent scenes, keyboard shortcuts, and Scene View toolbar integration.",
   "unity": "2020.3",
   "unityRelease": "0f1",
-  "documentationUrl": "https://github.com/ddky16/unity-scene-switcher#readme",
-  "changelogUrl": "https://github.com/ddky16/unity-scene-switcher/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/ddky16/unity-scene-switcher/blob/main/LICENSE",
+  "documentationUrl": "https://github.com/ddky16/UnityPackage-Scene-Switcher/blob/main/README.md",
+  "changelogUrl": "https://github.com/ddky16/UnityPackage-Scene-Switcher/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/ddky16/UnityPackage-Scene-Switcher/blob/main/LICENSE",
   "keywords": [
     "scene",
     "editor",
