@@ -3,6 +3,7 @@
 A powerful editor tool for quick scene switching in Unity. Stop digging through your project folder to find scenes - just use the dropdown!
 
 ## Features
+![demo](https://github.com/user-attachments/assets/7e761ccc-ff0b-4981-876a-0ffbd6d8a444)
 
 - **Quick Scene Dropdown**: Access all scenes in your project from a searchable dropdown
 - **Tabbed Interface**: View All Scenes, Build Scenes only, Favorites, or Recent scenes
@@ -27,6 +28,8 @@ Via Unity Package Manager:
 ## Usage
 
 ### Opening the Scene Switcher Window
+
+<img width="457" height="333" alt="Screenshot 2026-01-13 094223" src="https://github.com/user-attachments/assets/6cf442a8-17a2-49cd-a388-d78cf63b8033" />
 
 - **Menu**: `Tools > Scene Switcher > Open Scene Switcher`
 - **Shortcut**: `Ctrl+Shift+O` (Windows) / `Cmd+Shift+O` (Mac)
